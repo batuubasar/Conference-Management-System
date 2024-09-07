@@ -47,7 +47,7 @@ This system simplifies the process of managing conferences by handling various t
 - **Node.js 14** or higher (for frontend dependencies)
 
 ## Access the Application
-Open your web browser and go to [http://127.0.0.1:8000](http://127.0.0.1:8000) to access the Conference Management System.
+ [http://127.0.0.1:8000](http://127.0.0.1:8000) 
 
 ## Usage
 
